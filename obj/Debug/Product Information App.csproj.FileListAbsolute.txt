@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\Product Information\Product Information App\bin\Debug\Product Information App.exe.config
+C:\Users\PC21\Desktop\Product Information\Product Information App\obj\Debug\Product Information App.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\Product Information\Product Information App\obj\Debug\Product_Information_App.Properties.Resources.resources
+C:\Users\PC21\Desktop\Product Information\Product Information App\obj\Debug\Product Information App.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Product Information\Product Information App\bin\Debug\Product Information App.exe
+C:\Users\PC21\Desktop\Product Information\Product Information App\bin\Debug\Product Information App.pdb
+C:\Users\PC21\Desktop\Product Information\Product Information App\obj\Debug\Product Information App.exe
+C:\Users\PC21\Desktop\Product Information\Product Information App\obj\Debug\Product Information App.pdb
+C:\Users\PC21\Desktop\Product Information\Product Information App\obj\Debug\Product_Information_App.Form1.resources
